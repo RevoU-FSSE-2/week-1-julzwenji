@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/l9v8sNrv)
+<Head>
+<h1>This Is My First Assignment</h1>
+</Head>
+<Body><p>Hello, please find my assignment in the files above, consisting of HTML, CSS & JavaScript. For the Netlify version, please kindly check this link (href= "https://juliusw65week1.netlify.app/" </p></Body>
